@@ -494,7 +494,7 @@ img {
 
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
-	color: #456f7f;
+	color:grey;
 	line-height: 20px;
 	width: 940px;
 	margin: 0 auto;
@@ -538,7 +538,7 @@ img {
 	padding: 0 0 5px;
 }
 #connect li a {
-	color: #456f7f;
+	color:grey;
 	font-size: 15px;
 	text-decoration: none;
 }
